@@ -1,27 +1,17 @@
-require 'pry'
-
 def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
         #your key/value pairs here
-        name: "Lord Montague"
-        age: 53
         },
       :matriarch => {
         #your key/value pairs here
-        name: "Lady Montague"
-        age: 54
         },
       :hero => {
         #your key/value pairs here
-        name: "Romeo"
-        age: 15
-        status: "alive"
         },
       :hero_friends => []
-   },
-   binding.pry
+   }, 
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -36,5 +26,5 @@ def third_challenge
    }
   }
 
-
+  
 end
