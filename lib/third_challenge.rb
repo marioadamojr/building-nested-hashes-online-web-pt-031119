@@ -1,3 +1,5 @@
+require 'pry'
+
 def third_challenge
   epic_tragedy = {
    :montague => {
@@ -19,6 +21,7 @@ def third_challenge
         },
       :hero_friends => []
    },
+   binding.pry
    :capulet => {
       :patriarch => {
         #your key/value pairs here
