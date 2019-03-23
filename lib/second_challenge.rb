@@ -12,7 +12,7 @@ def second_challenge
       patriarch: "Lord Capulet",
       matriarch: "Lady Capulet",
       heroine: "Juliet",
-      hero_friends: ""
+      heroine_friends: ""
       }}
 
 
